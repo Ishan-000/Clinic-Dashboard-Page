@@ -34,11 +34,6 @@ Tech.Care Patient Dashboard is a web-based application designed for healthcare p
    ```
 3. Open `index.html` in a modern web browser.
 
-## API Integration
-The dashboard fetches data from a secure API endpoint. To use the API:
-- Endpoint: `https://fedskillstest.coalitiontechnologies.workers.dev/`
-- Authentication: Basic Auth (username and password required)
-
 ## Usage
 - The dashboard automatically loads data for Jessica Taylor upon opening.
 - Navigate through different sections to view patient information, vital signs, and medical history.
@@ -49,6 +44,13 @@ The dashboard is fully responsive and optimized for:
 - Desktop screens
 - Tablets
 - Mobile devices
+
+## Future Improvements
+- Implement secure API authentication for enhanced data protection
+- Add user login functionality
+- Expand the patient database to include multiple patients
+- Implement real-time data updates
+- Add functionality to edit and update patient information
 
 ## Contributing
 Contributions to improve the Tech.Care Patient Dashboard are welcome. Please follow these steps:
